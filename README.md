@@ -1,6 +1,6 @@
 # Android Project 2 - *Project 2 Wishlist*
 
-Submitted by: **Kenneth Burwell-Tibbs**
+Submitted by: **Kamari Johnson**
 
 ** Project 2 Wishlist ** is a wishlist app that helps the user keep track of what they want to buy.
 
